@@ -2,6 +2,9 @@
 
 ![img](http://dl3.joxi.net/drive/2019/12/06/0029/3762/1904306/06/08fa2e0135.jpg)
 
+# Paypal [donation](https://www.paypal.com/paypalme/codefather)
+
+
 Instruments:
 - [Docker](https://www.docker.com/)
 - [Django framework](https://www.djangoproject.com/)
