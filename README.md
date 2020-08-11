@@ -127,4 +127,4 @@ Now, all of incoming messages will be handle with ListenerMiddlware, wich got de
 - Customize CMS API for handle AI recognition patterns ?
 
 Developing by me for people with love <3
-# Paypal [donation](https://www.paypal.com/paypalme/codefather)
+
