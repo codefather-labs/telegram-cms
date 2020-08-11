@@ -1,8 +1,6 @@
-# Telegram-CMS v.0.3.2 alpha  [![No more Maintenance](https://img.shields.io/badge/Maintained-red.svg)]
+# Telegram-CMS v.0.3.2 alpha  [![Maintenance](https://img.shields.io/badge/Maintained-red.svg)]
 
 ![img](http://dl3.joxi.net/drive/2019/12/06/0029/3762/1904306/06/08fa2e0135.jpg)
-
-https://bitbucket.org/codefather-hub/telegram-cms/src/master/
 
 
 ## Attention! The project was moved to a [another repository](https://bitbucket.org/codefather-hub/telegram-cms/src/master/) and was completely rewritten to FastAPI. Django version is no longer supported!
