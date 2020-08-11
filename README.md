@@ -1,4 +1,4 @@
-# Telegram-CMS v.0.3.2 alpha  [![Maintenance](https://img.shields.io/badge/Maintained-red.svg)]
+# Telegram-CMS v.0.3.2 alpha  [!Maintenance(https://img.shields.io/badge/Maintained-red.svg)]
 
 ![img](http://dl3.joxi.net/drive/2019/12/06/0029/3762/1904306/06/08fa2e0135.jpg)
 
